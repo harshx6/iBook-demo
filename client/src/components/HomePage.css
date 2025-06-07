@@ -1,0 +1,39 @@
+.homepage-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .homepage-title {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .homepage-description {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .homepage-links {
+    margin-top: 20px;
+  }
+  
+  .homepage-link {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .homepage-link:hover {
+    background-color: #0056b3;
+  }

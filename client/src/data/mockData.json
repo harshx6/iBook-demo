@@ -1,0 +1,64 @@
+{
+    "books": [
+      {
+        "_id": "1",
+        "title": "Sample Book 1",
+        "author": "Author 1",
+        "year": 2020
+       
+      },
+      {
+        "_id": "2",
+        "title": "Sample Book 2",
+        "author": "Author 2",
+        "year": 2021
+        
+      }
+      
+    ],
+    "ratings": [
+      {
+        "_id": "1",
+        "bookId": "1",
+        "rating": 4
+        
+      },
+      {
+        "_id": "2",
+        "bookId": "2",
+        "rating": 5
+       
+      }
+    ],
+    "reviews": [
+      {
+        "_id": "1",
+        "bookId": "1",
+        "reviewText": "A great book!"
+        
+      },
+      {
+        "_id": "2",
+        "bookId": "2",
+        "reviewText": "Fantastic read!"
+        
+      }
+     
+    ],
+    "userProfiles": [
+      {
+        "_id": "1",
+        "username": "user1",
+        "email": "user1@example.com"
+       
+      },
+      {
+        "_id": "2",
+        "username": "user2",
+        "email": "user2@example.com"
+       
+      }
+      
+    ]
+  }
+  
